@@ -1,7 +1,10 @@
 <div align="center">
 
-![byler-one-wheat-mark](https://github.com/user-attachments/assets/6d16ae16-822b-43e5-b52c-70bd0830058b)
+i miss clouds. ~~i miss you.~~
 
-![](https://komarev.com/ghpvc/?username=appendice11&label=/ᐠ..ᐟ\Ⳋ&color=ff4a83&style=plastic)
+![IMG_0890](https://github.com/user-attachments/assets/cd7c4fd0-b0d2-4dcd-a2ce-644ce04c1d51)
 
-if byler canon vol2 i make better graphics :/
+
+![](https://komarev.com/ghpvc/?username=appendice11&label=☀︎&color=6babff&style=plastic)
+
+[credits](https://www.tumblr.com/fluffyrsrc/791558249779494912/ur-edits-are-super-cool-could-u-do-some)
