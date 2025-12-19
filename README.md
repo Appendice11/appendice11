@@ -1,7 +1,6 @@
 <div align="center">
 
-![IMG_0429](https://github.com/user-attachments/assets/5d685a1c-d6bd-4a3f-9e7e-c81fa11c2c90)
-
+![byler-one-wheat-mark](https://github.com/user-attachments/assets/6d16ae16-822b-43e5-b52c-70bd0830058b)
 
 ![](https://komarev.com/ghpvc/?username=appendice11&label=/ᐠ..ᐟ\Ⳋ&color=ff4a83&style=plastic)
 
