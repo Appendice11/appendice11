@@ -1,10 +1,14 @@
+
 <div align="center">
 
 i miss clouds. ~~i miss you.~~
 
-![IMG_0890](https://github.com/user-attachments/assets/cd7c4fd0-b0d2-4dcd-a2ce-644ce04c1d51)
+![bylerframe-ezgif com-resize](https://github.com/user-attachments/assets/07481af8-eafd-4177-ada3-528f1b88356a)
 
+ [新book](https://appendice.atabook.org/)
 
-![](https://komarev.com/ghpvc/?username=appendice11&label=☀︎&color=6babff&style=plastic)
+![](https://komarev.com/ghpvc/?username=appendice11&label=☀︎&color=3288f0&style=plastic)
+
+![bylerchibi](https://github.com/user-attachments/assets/ccf0f76b-0cf4-4181-812e-de9cf6628963)
 
 [credits](https://www.tumblr.com/fluffyrsrc/791558249779494912/ur-edits-are-super-cool-could-u-do-some)
