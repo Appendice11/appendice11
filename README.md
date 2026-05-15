@@ -1,6 +1,6 @@
 
 <div align="center">
 
-![IMG_1500](https://github.com/user-attachments/assets/4eccfa4f-59b2-46ff-8917-4292158271e2)
+$\color{#906dc7}{\textsf{the moon,}}$ $\color{#b081d6}{\textsf{my man.}}$
 
-![](https://komarev.com/ghpvc/?username=appendice11&label=☀︎&color=cfbb4e&style=plastic)
+![](https://komarev.com/ghpvc/?username=appendice11&label=☀︎&color=639e57&style=plastic)
