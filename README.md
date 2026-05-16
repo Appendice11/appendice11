@@ -1,3 +1,3 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=appendice11&label=☀︎&color=639e57&style=plastic)
+![](https://komarev.com/ghpvc/?username=appendice11&label=𓆏&color=658c49&style=plastic)
