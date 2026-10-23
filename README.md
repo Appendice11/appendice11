@@ -5,7 +5,7 @@
  </tr>
   
   <tr>
-    <td width = 160> <img src = https://files.catbox.moe/p7c9sx.gif width = 160> </td>
+    <td width = 160> <img src = https://files.catbox.moe/p7c9sx.gif width = 50> </td>
   </tr>
 </table>
 </div>
