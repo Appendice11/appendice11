@@ -12,7 +12,7 @@
   
   <tr>
     <td width = 100 align = "center"> <img src = https://files.catbox.moe/oz67j7.gif width = 100 > </td>
-   <td width = 100 align = "center"> <img src = https://files.catbox.moe/oz67j7.gif width = 100 > </td>
+   <td width = 100 align = "center"> <img src = https://files.catbox.moe/99hlqi.gif width = 100 > </td>
   </tr>
 </table>
 </div>
