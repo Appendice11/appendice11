@@ -5,17 +5,17 @@
   
   <td>   <details>
     <summary> Buddies (6/18) </summary>
-    <sub> ㅤㅤㅤ@finnwoIfhard
+    <sub> ㅤㅤㅤ[@finnwoIfhard](https://github.com/finnwoIfhard)
       <br>ㅤㅤㅤㅤㅤㅤashwan ♡
-      <br>ㅤㅤㅤ@H3venly
+      <br>ㅤㅤㅤ[@H3venly](https://github.com/H3venly)
       <br>ㅤㅤㅤㅤㅤㅤkuzuyoko duo
-      <br>ㅤㅤㅤ@crrystalclear
+      <br>ㅤㅤㅤ[@crrystalclear](https://github.com/crrystalclear)
       <br>ㅤㅤㅤㅤㅤㅤmadwheeler US
-      <br>ㅤㅤㅤ@oakwoodn
+      <br>ㅤㅤㅤ[@oakwoodn](https://github.com/oakwoodn]
       <br>ㅤㅤㅤㅤㅤㅤlet the verity's out
-      <br>ㅤㅤㅤ@wiIIthewise
+      <br>ㅤㅤㅤ[@wiIIthewise](https://github.com/wiIIthewise)
       <br>ㅤㅤㅤㅤㅤㅤcome back homie
-      <br>ㅤㅤㅤ@carvedquestion
+      <br>ㅤㅤㅤ[@carvedquestion](https://github.com/carvedquestion)
       <br>
     </sub>
 </details> 
