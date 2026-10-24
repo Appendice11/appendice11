@@ -1,6 +1,4 @@
-<div align = center>
-
- <table>
+<table>
   <tr>
    <td width = 120 align = "center"> <sub><a href = "https://github.com/finnwoIfhard">@𝖿𝗂𝗇𝗇𝗐𝗈𝖨𝖿𝗁𝖺𝗋𝖽</a></sub> </td>
    <td width = 120 align = "center"> <sub><a href = "https://github.com/venzqs">@𝗏𝖾𝗇𝗓𝗊𝗌</a></sub> </td>
@@ -15,4 +13,3 @@
    <td width = 120 align = "center"> <img src = https://files.catbox.moe/99hlqi.gif width = 80 > </td>
   </tr>
 </table>
-</div>
